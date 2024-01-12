@@ -9,6 +9,8 @@ public class Main {
 		  Cliente cliente = new Cliente("James", 30);
 		  
 		 System.out.println(cliente.getNome());
+		 
+		 System.out.println(cliente.getIdade());
  
 	}
 
